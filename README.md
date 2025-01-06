@@ -26,7 +26,7 @@ This Android application, developed in Kotlin using Android Studio, allows users
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AllaUjwalSai/stock-tracking-app.git
+   git clone https://github.com/AllaUjwalSai/StockMarketApp.git
    cd stock-tracking-app
    ```
 
