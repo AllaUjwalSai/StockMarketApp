@@ -99,7 +99,4 @@ app/
 - Stock market API providers Alpha Vantage.
 - Open-source libraries (Retrofit, Glide, Room) for simplifying development.
 
-## Contact
-
-For questions or support, contact [Your Name] at [your-email@example.com].
 
